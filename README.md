@@ -14,7 +14,7 @@
 
 ---
 
-## Portfolio Projects
+## Projects
 ### U-Fund Website
 ##### Class project for SWEN-261 (Introduction to Software Engineering)
 * Fundraising website for charitable organizations.
