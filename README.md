@@ -1,16 +1,23 @@
-## Hi there 👋
+## Name + Contact Info
+**Mark Ackerman**  
+Phone: (315) 271-1475  
+Email: markeyhackerman@gmail.com  
+LinkedIn: [linkedin.com/in/mark-ackerman-982b35196/](https://linkedin.com/in/mark-ackerman-982b35196/)  
+GitHub: [github.com/marKEYfrfx](https://github.com/marKEYfrfx)  
+---
 
-<!--
-**marKEYfrfx/marKEYfrfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Programming Languages:
+- Frameworks & Libraries:
+- Tools & Platforms:
+- Databases:
+- Other:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+
+---
+
+## Education
+
