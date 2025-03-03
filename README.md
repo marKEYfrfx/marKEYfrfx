@@ -20,7 +20,11 @@
 * Wrote Front-End in TypeScript with Angular as a framework.
 #### UML Highlighter
 ###### Personal project developing plugin for draw.io software.
-* 
+* VSCode Extension for VSCode Drawio Integration
+* Parses XML for cells that represents a UML Diagram
+* Parses text for fields and types and adds HTML text formatting to text
+* Written in TypeScript
+* Repo: github.com/marKEYfrfx/UMLHighlighter
 ---
 ### Education
 Bachelor of Science in Computer Science
