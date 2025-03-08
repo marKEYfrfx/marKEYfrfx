@@ -14,7 +14,7 @@
 #### UML Highlighter
 ###### Personal project developing plugin for draw\.io software.
 * VSCode Extension for VSCode Drawio Integration (github.com/marKEYfrfx/UMLHighlighter)
-* Parses XML for cells that represents a UML Diagram
+* Parses XML for cells that represent a UML Diagram
 * Parses text for fields and types and adds HTML text formatting to text
 * Written in TypeScript
 #### U-Fund Website
